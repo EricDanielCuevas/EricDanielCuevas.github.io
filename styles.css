@@ -1,0 +1,199 @@
+
+.navbar{
+    background-color:rgba(66, 64, 64, 0.717);
+    flex-wrap: nowrap !important;
+    --bs-navbar-padding-y: 1.5rem !important;
+
+}
+
+.nav-link{
+    color: rgba(17, 16, 16, 0.663) !important;
+}
+.container-fluid{
+    width: 65% !important;
+    display: flex;
+    justify-content: space-evenly !important;
+    
+}
+.navbar-brand{
+    margin-left: 6%;
+    display: inline;
+}
+
+.img-fluid{
+    filter: brightness(50%);
+    width: 100% !important; 
+ }
+
+ .card{
+    border-radius: 0% !important;
+ }
+
+.card-img-overlay{
+    transform: translate(0%, 43%);
+    text-align: end;
+    margin-right: 9%;
+}
+
+.card-title{
+    font-size: 1.60rem;    
+}
+
+.btn-lg {
+    --bs-btn-padding-y: 0.2rem !important;
+    --bs-btn-font-size: 1.1rem !important; 
+    --bs-btn-border-radius: 0.3rem !important;
+    --bs-btn-color: #FFFFFF !important;
+}
+
+.btn-primary{
+   background-color: green !important; 
+}
+.btn-secondary{
+    --bs-btn-bg: #f8f9fa00 !important;
+    border-color: #FFFFFF !important;
+}
+
+#pre-oradores{
+    display: flex;
+    flex-direction:column; 
+    align-items: center;
+    margin-top: 1.5%;
+}
+
+#conoce{
+    font-size:1em;
+    font-weight: normal;
+}
+
+#c-group{
+    width: 70%;
+    margin:auto;
+}
+
+#card{
+    margin-right: 3%;
+    border-left: outset;
+    border-color: rgba(0, 0, 0, 0.446);
+}
+
+#secondary{
+    background-color: grey;
+}
+#primary{
+    background-color: rgb(40, 106, 230);
+    color: #FFFFFF;
+}
+
+#fila{
+    width: 100%;
+    margin-top: 3%;
+}
+
+#primeraCol{
+    padding: initial;
+}
+
+#segundaCol{
+    padding: initial;
+}
+
+#cardb1{
+    padding: initial;
+}
+
+#imgplaya{
+    width: -webkit-fill-available;
+}
+
+#cardPadre2{
+    background-color: rgba(0, 0, 0, 0.776);
+}
+
+#cardb2{
+    height: 427px;
+    color: #FFFFFF;
+}
+
+
+
+#conoceMas{
+    background-color: transparent;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+#formulario{
+    margin-top: 1.5%;
+}
+
+#inputsForm{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#exampleFormControlInput1{
+    width: 26%;
+    border-radius: 0;
+}
+
+#textArea{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#exampleFormControlTextarea1{
+    width: 54%;
+    margin-right: 2%;
+}
+
+#label{
+    display: flex;
+    justify-content: center ;
+    margin-right: 46.5%;
+    margin-top: 0.5%;
+}
+#centrarBoton{
+    display: flex;
+    justify-content: center;
+    margin-right: 1.6%;
+}
+
+#enviar{
+    background-color: rgb(92, 222, 0);
+    color: #FFFF;
+    width: 55%;
+}
+
+#footer{
+    background-color: darkcyan;
+    --bs-nav-link-color: #ffffff; 
+    display: flex;
+    justify-content: center;
+    padding-left: 1%;
+
+}
+
+.nav{
+    --bs-nav-link-padding-y: 2.0rem !important;
+}
+
+ul{
+    margin-top: 20px !important;
+}
+
+li{
+    width: 11.6%;
+    color: #FFFFFF;
+    
+}
+
+.nav-link{
+    color: rgba(255, 255, 255, 0.994) !important;
+}
+
+a:hover {
+    color: rgba(223, 241, 31, 0.737) !important;
+}
